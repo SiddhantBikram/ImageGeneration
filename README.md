@@ -10,6 +10,8 @@
 <h6 align="center">Prompt: Nepal Himalayas Clouds Sky Heavenly</h6>
 <br>
 
+<b>Colab Link: https://colab.research.google.com/drive/1Fg1O_joen0CY56hTO5UBNuoyjFewPEh2</b>
+
 <b>Instructions for use of VQGAN+CLIP+ESRGAN_Implementation.ipynb:</b>
 
 1. The file is meant to be run on Google Colab.
