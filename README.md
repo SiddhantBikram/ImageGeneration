@@ -7,7 +7,7 @@
   <img src="https://github.com/SiddhantBikram/ImageGeneration/blob/main/Outputs/Nepal%20Himalayas%20Clouds%20Sky%20Heavenly%20ESRGAN.png" height = 300 width="300" title="hover text">
 </p>
 
-<h6 align="center">Prompt: Nepal, Himalayas, Clouds, Sky, Heavenly</h6>
+<h6 align="center"><i>Prompt: Nepal, Himalayas, Clouds, Sky, Heavenly</i></h6>
 <br>
 
 <b>Colab Link: https://colab.research.google.com/drive/1Fg1O_joen0CY56hTO5UBNuoyjFewPEh2</b>
